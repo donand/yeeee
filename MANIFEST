@@ -2,3 +2,4 @@
 setup.cfg
 setup.py
 yeeee/__init__.py
+yeeee/main.py

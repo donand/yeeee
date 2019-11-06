@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
     name='yeeee',         # How you named your package folder (MyLib)
     packages=['yeeee'],   # Chose the same as "name"
-    version='0.1',        # Start with a small number and increase it with every change you make
+    version='1.0',        # Start with a small number and increase it with every change you make
     license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
     description='yeeee',  # Give a short description about your library
     author='Andrea Donati',                   # Type in your name
