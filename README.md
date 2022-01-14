@@ -16,3 +16,16 @@
 ░░░░░░░██░░░░░█▄▄▀▀░█░░░░░░
 ░░░░░░░░▀▀█▀▀▀▀░░░░░░█░░░░░
 ░░░░░░░░░█░░░░░░░░░░░░█░░░░
+```
+
+# Installation
+```
+pip install yeeee
+```
+
+# Usage
+```
+from yeeee import preeeent
+
+preeeent()
+```
